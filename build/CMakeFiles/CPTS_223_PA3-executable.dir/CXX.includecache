@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/ChainingHash.h
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+stdexcept
+-
+iterator
+-
+algorithm
+-
+crypt.h
+-
+Hash.h
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/Hash.h
+
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/Hash.h
+math.h
+-
+
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/ProbingHash.h
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+stdexcept
+-
+iterator
+-
+algorithm
+-
+crypt.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+Hash.h
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/Hash.h
+
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/main.cpp
+map
+-
+string
+-
+chrono
+-
+cassert
+-
+ChainingHash.h
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/ChainingHash.h
+ProbingHash.h
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/ProbingHash.h
+iostream
+-
+fstream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

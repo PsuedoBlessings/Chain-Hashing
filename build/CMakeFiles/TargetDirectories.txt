@@ -1,0 +1,3 @@
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/build/CMakeFiles/rebuild_cache.dir
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/build/CMakeFiles/edit_cache.dir
+/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/build/CMakeFiles/CPTS_223_PA3-executable.dir

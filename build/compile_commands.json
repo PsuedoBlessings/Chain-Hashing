@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/build",
+  "command": "/usr/bin/g++     -Wall -g   -std=gnu++11 -o CMakeFiles/CPTS_223_PA3-executable.dir/main.cpp.o -c \"/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/main.cpp\"",
+  "file": "/mnt/z/Projects/Visual Code/School/Advance Data Structures/Programing Assignments/PA 3/start_code/main.cpp"
+}
+]
